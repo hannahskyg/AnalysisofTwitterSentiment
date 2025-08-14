@@ -1,4 +1,4 @@
-# AnalysisofTwitterSentiment
+# Analysis of Twitter Sentiment
 
 For this class project, my team and I wanted to understand how college students' emotions shift during the academic quarter—especially during midterms and finals. We looked at over 1.6 million tweets from the Sentiment140 dataset and used sentiment analysis to see how stress, anxiety, and other feelings showed up on Twitter from April through June.
 
